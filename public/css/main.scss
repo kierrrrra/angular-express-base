@@ -1,2 +1,8 @@
-@import "partials/reset";
+@import "compass/css3/box-sizing";
+@import "compass/css3/transition";
+@import "compass/css3/transform";
+
+@import "partials/normalize";
+@import "partials/grid";
+@import "partials/typography";
 @import "partials/layout";
